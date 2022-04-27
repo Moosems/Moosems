@@ -5,4 +5,6 @@
  - My current big project is a personal IDE called JDE (I recently started a github page on it) as it should help me understand how they work and increase my knowledge on how programming languages work
  - Will possibly pursue coding/programming as a carrer or side job/hobby
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Moosems)](https://github.com/Moosems/github-readme-stats)
+<br>
 [![Moosems GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moosems)](https://github.com/Moosems/github-readme-stats)
